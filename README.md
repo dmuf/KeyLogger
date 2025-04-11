@@ -9,6 +9,10 @@ A simple **keylogger** implemented in **Python** to capture keystrokes and log t
 - Captures each keypress along with the timestamp.
 - Saves logs to a local file.
 - Built with Python's `pynput` library for keypress detection.
+  ## Plans
+  - Making it Undetectable
+  - Log mouse clicks/movements
+  - Execute off startup/in the background
 
 ## Technologies Used
 
