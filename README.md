@@ -83,4 +83,3 @@ Feel free to contribute to the project by submitting a **pull request** with imp
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Screenshots📸
